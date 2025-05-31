@@ -300,3 +300,17 @@ body {
   line-height: 1.78;
   color: rgba(255, 255, 255, 0.5);
 }
+
+.footer-nav-title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.78;
+}
+
+.footer-nav {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.78;
+}
